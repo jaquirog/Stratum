@@ -1,0 +1,18 @@
+# Temporales de Python (Obligatorio)
+__pycache__/
+*.pyc
+
+# STRATUM - Archivos de Seguridad y Licencia
+.stratum_license.dat
+.stratum_audit.log
+
+# Entornos Virtuales y Cache
+.stratum/
+venv/
+.venv/
+
+# Reportes generados (para que no se llenen de basura los commits)
+stratum_reporte_*.html
+
+# Configuración de editor
+.vscode/
